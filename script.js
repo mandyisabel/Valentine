@@ -37,7 +37,7 @@ function showMessage(response) {
     yesMessage.textContent = "LETS GOOO see you on the 14th Jannis-Pupsi 😘😘";
     yesMessage.style.display = "block";
     yesMessage.style.fontStyle = "normal";
-    document.getElementsByClassName("image")[0].src = "images/dance.gif";
+    document.getElementsByClassName("image")[0].src = "Objekt 2.png";
 
     // Remove yes button
     document.getElementById("yesButton").remove();
